@@ -3947,49 +3947,18 @@ OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
-Package: enigma2-plugin-skins-simple-gray-hd-dbg
-Version: 1.0+git167+689d2be-r0
-Section: devel
-Architecture: all
-Maintainer: Taapat
-MD5Sum: 0662c441e348844fd9210e97ce8231e8
-SHA256sum: da6c5cd7b665766c3b8891a066333f2f16589813f03925f29eaef0fc3e9ee294
-Size: 686
-Filename: enigma2-plugin-skins-simple-gray-hd-dbg_1.0+git167+689d2be-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+689d2bef85-r0 - Debugging files
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-skins-simple-gray-hd-dev
-Version: 1.0+git167+689d2be-r0
-Depends: enigma2-plugin-skins-simple-gray-hd (= 1.0+git167+689d2be-r0)
-Section: devel
-Architecture: all
-Maintainer: Taapat
-MD5Sum: 6a4cabae0b1e08deff699d5c44aab524
-SHA256sum: fbacc39c56bfe1e26c9f6ddadd3657d4f80f722ae63d87d1d4af248af084312b
-Size: 720
-Filename: enigma2-plugin-skins-simple-gray-hd-dev_1.0+git167+689d2be-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+689d2bef85-r0 - Development files
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-skins-simple-gray-hd
-Version: 1.0+git167+689d2be-r0
+Package: enigma2-plugin-skins-simple-gray
+Version: 1.0+git199+61107e3-r0
 Section: base
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 1eb5ca3f9e29ebd7622498e921563ed5
-SHA256sum: deaff7190d683818bd1c4552e9f2ae3cd27cd7cd42a5444e4a180e2a154483bd
-Size: 192914
-Filename: enigma2-plugin-skins-simple-gray-hd_1.0+git167+689d2be-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+689d2bef85-r0
-OE: enigma2-plugin-skins-simple-gray-hd
+MD5Sum: 72da363a01a3ba3e47003b9dc16bacd9
+SHA256sum: 8fd81817fb0f8ff918ad5093b9af8b1d9f7b96622921b25776d5420229d6c69c
+Size: 319112
+Filename: enigma2-plugin-skins-simple-gray_1.0+git199+61107e3-r0_all.ipk
+Source: enigma2-plugin-skins-simple-gray.bb
+Description: enigma2-plugin-skins-simple-gray version 1.0+gitAUTOINC+61107e376e-r0
+OE: enigma2-plugin-skins-simple-gray
 License: GPLv3
 Priority: optional
 
